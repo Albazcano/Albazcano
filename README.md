@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there, I´m Alba Azcano 👋 </h1>
 
-💻 I’m currently learning Fullstack Development at Factoría F5
+<h4 align="center">💻 I’m currently learning Fullstack Development at Factoría F5</h4> 
  
 
 
