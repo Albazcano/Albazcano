@@ -3,9 +3,7 @@
 <h4 align="center">💻 I’m currently learning Fullstack Development at Factoría F5</h4> 
 
 
-
-Here are some ideas to get you started:
-
+<h2 align="center"> How to reach me: </h2> 
 
 <p align="center">
   <a href="www.linkedin.com/in/albazcano" target="_blank">
@@ -14,8 +12,8 @@ Here are some ideas to get you started:
 </p>
 
 <!--
-✨ _special_ ✨ 
-<h2 align="center"> How to reach me: </h2> 
+
+Here are some ideas to get you started:
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.sv" alt="Alba Azcano" height="30" width="40" /></a>
 - 🔭 I’m currently working on ...- 
 - 👯 I’m looking to collaborate on ...
@@ -27,7 +25,7 @@ Here are some ideas to get you started:
 
 
 
- <h2 align="center"> My stats </h2> 
+ <h2 align="center"> ✨ My stats ✨  </h2> 
  <h4 align="center">Top languages</h4>
   <p align="center" margin-top=20px><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albazcano&langs_count=10&theme=shades-of-purple&layout=compact"    alt="Alba's :: Top Langs" /</p>
     
