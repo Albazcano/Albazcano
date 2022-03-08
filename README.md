@@ -4,16 +4,17 @@
 
 
 
-<!--
-**Albazcano/Albazcano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<p align="center">
-
-  <a href="www.linkedin.com/in/albazcano">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.sv" alt="Alba Azcano's LinkedIn Profile" height="30" width="30">
-  </a>
-  
-</p>
 Here are some ideas to get you started:
+
+
+<p align="center">
+  <a href="www.linkedin.com/in/albazcano" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Alba Azcano's LinkedIn Profile" width="40">
+  </a>
+</p>
+
+<!--
+✨ _special_ ✨ 
 <h2 align="center"> How to reach me: </h2> 
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.sv" alt="Alba Azcano" height="30" width="40" /></a>
 - 🔭 I’m currently working on ...- 
