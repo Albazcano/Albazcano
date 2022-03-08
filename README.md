@@ -6,7 +6,7 @@
 <h2 align="center"> How to reach me: </h2> 
 
 <p align="center">
-  <a href="www.linkedin.com/in/albazcano" target="_blank">
+  <a href="https://www.linkedin.com/in/albazcano" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Alba Azcano's LinkedIn Profile" width="40">
   </a>
 </p>
