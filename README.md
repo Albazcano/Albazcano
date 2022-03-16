@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Albazcano&label=Profile%20views&color=0e75b6&style=flat" alt="Albazcano" /></p>
 -->
 
  <h2 align="center"> ✨ My stats ✨  </h2> 
@@ -31,4 +30,5 @@ Here are some ideas to get you started:
   <h4 align="center">Profile stats</h4>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Albazcano&show_icons=true&theme=vue-dark" alt="Ileen's :: Profile Stats" /></p>
  
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=Albazcano&label=Profile%20views&color=0e75b6&style=flat" alt="Albazcano" /></p>
 </body>
