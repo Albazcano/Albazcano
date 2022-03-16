@@ -21,16 +21,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Albazcano&label=Profile%20views&color=0e75b6&style=flat" alt="Albazcano" /></p>
 -->
-
-
 
  <h2 align="center"> ✨ My stats ✨  </h2> 
  <h4 align="center">Top languages</h4>
   <p align="center" margin-top=20px><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albazcano&langs_count=10&theme=shades-of-purple&layout=compact"    alt="Alba's :: Top Langs" /</p>
     
- 
-
   <h4 align="center">Profile stats</h4>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Albazcano&show_icons=true&theme=vue-dark" alt="Ileen's :: Profile Stats" /></p>
+ 
 </body>
