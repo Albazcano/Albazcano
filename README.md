@@ -11,17 +11,28 @@
   </a>
 </p>
 
-<!--
+<img align="right" height="220px" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="developer" />
 
-Here are some ideas to get you started:
-<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.sv" alt="Alba Azcano" height="30" width="40" /></a>
-- 🔭 I’m currently working on ...- 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on anything!
+- 🌱 I’m currently learning **java**
+- 📫 How to reach me **albazcano@gmail.com**
+- ⚡ Fun fact: I love Crime, Thriller and Mystery Books
+
+### 🛠 Tech Stack
+
+![Html](http://img.shields.io/badge/-Html-e24c27?style=flat-square&logo=html5&logoColor=white)
+![Css](http://img.shields.io/badge/-Css-2a65f1?style=flat-square&logo=css3&logoColor=white)
+![Sass](http://img.shields.io/badge/-Sass-cc6699?style=flat-square&logo=sass&logoColor=white)
+![Javascript](http://img.shields.io/badge/-Javascript-fcd400?style=flat-square&logo=javascript&logoColor=black)
+![Typescript](http://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+![Vue.js](http://img.shields.io/badge/-Vue.js-41b883?style=flat-square&logo=vue.js&logoColor=white)
+![Php](http://img.shields.io/badge/-Php-767bb3?style=flat-square&logo=php&logoColor=white)
+![Mysql](http://img.shields.io/badge/-Mysql-white?style=flat-square&logo=mysql)
+![Java](http://img.shields.io/badge/-Java-e8892f?style=flat-square&logo=java&logoColor=white)
+![Git](http://img.shields.io/badge/-Git-white?style=flat-square&logo=git)
+![Npm](http://img.shields.io/badge/-Npm-white?style=flat-square&logo=npm&logoColor=white)
+![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
+
 
  <h2 align="center"> ✨ My stats ✨  </h2> 
  <h4 align="center">Top languages</h4>
@@ -29,6 +40,6 @@ Here are some ideas to get you started:
     
   <h4 align="center">Profile stats</h4>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Albazcano&show_icons=true&theme=vue-dark" alt="Ileen's :: Profile Stats" /></p>
- 
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Albazcano&label=Profile%20views&color=0e75b6&style=flat" alt="Albazcano" /></p>
+  
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=Albazcano&label=Profile%20views&color=0e75b6&style=flat" alt="Albazcano" /></p> 
 </body>
