@@ -14,7 +14,7 @@
 <img align="right" height="220px" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="developer" />
 
 - 👯 I’m looking to collaborate on anything!
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **Java**
 - 📫 How to reach me **albazcano@gmail.com**
 - ⚡ Fun fact: I love Crime, Thriller and Mystery Books
 
