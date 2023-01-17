@@ -9,7 +9,11 @@
   <a href="https://www.linkedin.com/in/albazcano" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="Alba Azcano's LinkedIn Profile" width="40">
   </a>
+  <a href="https://twitter.com/intent/follow?screen_name=Albazc">
+        <img src="https://img.shields.io/twitter/follow/Albazc?style=social&logo=twitter"
+            alt="follow on Twitter"></a>
 </p>
+    
 
 <img align="right" height="220px" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" alt="developer" />
 
@@ -34,12 +38,14 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode&logoColor=3aa7f2)
 
 
+<!-- This content will not appear in the rendered Markdown 
  <h2 align="center"> ✨ My stats ✨  </h2> 
  <h4 align="center">Top languages</h4>
   <p align="center" margin-top=20px><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Albazcano&langs_count=10&theme=shades-of-purple&layout=compact"    alt="Alba's :: Top Langs" /</p>
     
   <h4 align="center">Profile stats</h4>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Albazcano&show_icons=true&theme=vue-dark" alt="Ileen's :: Profile Stats" /></p>
+  <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Albazcano&show_icons=true&theme=vue-dark" alt="Alba's :: Profile Stats" /></p>-->
+  
   
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Albazcano&label=Profile%20views&color=0e75b6&style=flat" alt="Albazcano" /></p> 
 </body>
