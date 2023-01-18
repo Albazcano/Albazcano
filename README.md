@@ -46,6 +46,16 @@
   <h4 align="center">Profile stats</h4>
   <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Albazcano&show_icons=true&theme=vue-dark" alt="Alba's :: Profile Stats" /></p>-->
   
-  
+  ## GitHub Stats
+
+<!-- 2020 graph
+<img src="https://skyline.github.com/albazcano/2022" width="700"> -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=Albazcano&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for Albazcano" width="700">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Albazcano&theme=jolly" width="700">
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Albazcano&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ONLY if I want to show the trophy things here -->
+
   <p align="center"> <img src="https://komarev.com/ghpvc/?username=Albazcano&label=Profile%20views&color=0e75b6&style=flat" alt="Albazcano" /></p> 
 </body>
